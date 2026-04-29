@@ -17,7 +17,7 @@
 <h3 align="center">A passionate frontend developer from Egypt</h3><br>
 <img align="right" src = "https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width = "400" height = "470">
 
-- 🌱 I’m currently learning **React.JS**
+=- 🌱 I’m currently learning **React.JS**
   
 - 📝 I regularly write articles on [Linked-In](https://www.linkedin.com/in/amr-saeed5/)
   
@@ -27,24 +27,20 @@
   
 - ⚡ Fun fact **I'm a True Culé🔵🔴** 
 
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amr__saeed55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amr__saeed55" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amr-saeed5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amr-saeed5" height="30" width="40" /></a>
 <a href="https://fb.com/el5al5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="el5al5" height="30" width="40" /></a>
 </p>
-
 <!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- GRID CONTAINER START -->
-<div style="
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
-  gap: 12px;
-  justify-items: center;
-  padding: 10px 0;
-">
+<p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
     </a> 
@@ -60,6 +56,9 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     </a>
+</p>
+
+<p align="left" width = "400">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a>
@@ -75,6 +74,9 @@
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
     </a>
+</p>
+
+<p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a>
@@ -93,7 +95,7 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     </a>
-</div>
-<!-- GRID CONTAINER END -->
+</p>
 
 <div style="border-bottom: 1px solid gray; margin: 10px 0;"></div>
+
